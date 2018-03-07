@@ -1,4 +1,10 @@
 # UISliderWithLabel
+
+
+![capture d ecran 2018-03-07 a 11 41 48](https://user-images.githubusercontent.com/17429889/37088628-4f3aa99a-21fe-11e8-9d50-c389d1ceb554.png)
+
+
+
 Custom Slider with a followed slider
 
         //create your custom slider
