@@ -7,7 +7,7 @@
 
 Custom Slider with a followed slider
 ```swift
-//create your custom slider
+        //create your custom slider
         let mycustomSliderView = SliderView(frame: CGRect(x:x, y:y, width:width, height: height))
         
         //to change the track highlightTintColor
