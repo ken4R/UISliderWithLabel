@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "6b70f75f829445d46771f4b20b6b086a"
+build_time: [1520415429, 477415000]
+inputs:
+  "/Users/MacBook/Desktop/CustomSlider/CustomSlider/ViewController.swift": [1520413113, 0]
+  "/Users/MacBook/Desktop/CustomSlider/CustomSlider/AppDelegate.swift": [1520413113, 0]
+  "/Users/MacBook/Desktop/CustomSlider/CustomSlider/UISliderWithLabels/UISliderWithLabelView.swift": [1520413600, 0]
+  "/Users/MacBook/Desktop/CustomSlider/CustomSlider/UISliderWithLabels/UISliderWithLabel.swift": [1520415429, 0]
